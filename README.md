@@ -35,7 +35,7 @@ codewithjatin70/codewithjatin70 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.--->
 ![trophy](https://github-profile-trophy.vercel.app/?username=codewithjatin70&theme=darkhub)
 
-![snake gif](https://github.com/ᴊᴀᴛɪɴꜱʜᴀʀᴍᴀ/codewithjatin70/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
