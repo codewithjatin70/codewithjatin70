@@ -5,9 +5,15 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Stack:
+- 🐍 Python, 🧠 Groq LLM
+- 🖼️ Tkinter, API, OpenAI
+- 📁 Git, GitHub
 
 # 👋 Hi, I'm ᴊᴀᴛɪɴꜱʜᴀʀᴍᴀ!  
-### 💻 Python Developer | 🚀 API Enthusiast | 🌐 Open Source Learner
+### 💻 Python Developer | 🚀 API Enthusiast | 🌐 Open Source Learner ### ![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Made with Groq](https://img.shields.io/badge/LLM-Groq-ff69b4)
+ 🔧 Tech 
 
 I'm a passionate developer who loves working with real-time data, automation, and solving real-world problems using code. I enjoy building small tools, APIs, and CLI apps that make life easier.
 
