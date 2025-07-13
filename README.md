@@ -11,8 +11,8 @@
 - 📁 Git, GitHub
 
 # 👋 Hi, I'm ᴊᴀᴛɪɴꜱʜᴀʀᴍᴀ!  
-### 💻 Python Developer | 🚀 API Enthusiast | 🌐 Open Source Learner ![Python](https://img.shields.io/badge/Python-3.10-blue) 
-![Made with Groq](https://img.shields.io/badge/LLM-Groq-ff69b4)
+### 💻 Python Developer | 🚀 API Enthusiast | 🌐 Open Source Learner ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Made with Groq](https://img.shields.io/badge/LLM-Groq-ff69b4)
+
  ###
  🔧 Tech 
 
